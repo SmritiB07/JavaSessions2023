@@ -9,7 +9,8 @@ public class DemoPage2 {
 	public static void main(String[] args) {
 		String welcome="hello world";
 		System.out.println(welcome);
-
+  int i=10;
+  System.out.println(i);
 	}
 
 }
